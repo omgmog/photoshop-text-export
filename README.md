@@ -9,7 +9,7 @@ This is based on the 'PS_BRAMUS Text Export 1.3' script from [bram.us](http://ww
 
 ### Installation
 
-1. Copy to your Photoshop Scripts folder (`/Applications/Adobe Photoshop CS4/Presets/Scripts/`)
+1. Copy `Text Export.jsx` to your Photoshop Scripts folder (`/Applications/Adobe Photoshop CS4/Presets/Scripts/`)
 2. Start (or Re-launch) Photoshop
 3. Go to the `File` menu
 4. Go to the `Script` menu
