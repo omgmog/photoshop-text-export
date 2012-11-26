@@ -15,4 +15,6 @@ This is based on the 'PS_BRAMUS Text Export 1.3' script from [bram.us](http://ww
 4. Go to the `Script` menu
 5. Click `Text Export` and select a place to save your output
 
+This might not work in Adobe Photoshop CS6.
+
 This repository has been created with [Octogit](http://myusuf3.github.com/octogit/).
