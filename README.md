@@ -1,3 +1,7 @@
+# Hey new users!
+
+This script is super old. It was 4 years old when I adapted it from bram.us back in 2012, so if it doesn't work you're on your own!
+
 ## Photoshop Text Export
 
 This is a Photoshop Script that will allow you to export all of the text layers from your PSD along with their font styles.
@@ -16,5 +20,3 @@ This is based on the 'PS_BRAMUS Text Export 1.3' script from [bram.us](http://ww
 5. Click `Text Export` and select a place to save your output
 
 This might not work in Adobe Photoshop CS6.
-
-This repository has been created with [Octogit](http://myusuf3.github.com/octogit/).
